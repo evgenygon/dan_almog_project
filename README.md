@@ -1,1 +1,2 @@
-# dan_almog_project
+רק מה שמסתיים ב PY
+בטעות הוספתי PYC
